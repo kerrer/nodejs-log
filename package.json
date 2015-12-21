@@ -1,0 +1,21 @@
+{
+  "name": "log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "log.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fn.js": "^0.8.1",
+    "log4js": "^0.6.29"
+  },
+  "gitHead": "8263c396370eba13dd4c6f39b6e8ff2fc47619c3",
+  "readme": "ERROR: No README data found!",
+  "_id": "yxlog@1.0.0",
+  "_shasum": "8bb8c6da3245a5ae47842d52d08e7ed32aa879ac",
+  "_from": "git+https://github.com/kerrer/yxlog.git",
+  "_resolved": "git+https://github.com/kerrer/yxlog.git#8263c396370eba13dd4c6f39b6e8ff2fc47619c3"
+}
