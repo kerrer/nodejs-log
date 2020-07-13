@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "fn.js": "^0.8.1",
-    "log4js": "^0.6.29"
+    "log4js": "^6.3.0"
   },
   "gitHead": "8263c396370eba13dd4c6f39b6e8ff2fc47619c3",
   "readme": "ERROR: No README data found!",
